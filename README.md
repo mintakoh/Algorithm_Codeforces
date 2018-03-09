@@ -1,5 +1,4 @@
 # 2018-03-09
-==============
 
 1. 4A Watermelon
 2. 1A Theatre Square
