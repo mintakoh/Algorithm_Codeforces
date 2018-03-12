@@ -15,3 +15,8 @@
 2. 96A Footbal
 3. 112A Petya and Strings
 4. 339A Helpful Maths
+
+
+# 2018-03-12
+
+1. 266A Stones on the Table
