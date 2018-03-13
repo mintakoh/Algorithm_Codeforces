@@ -20,3 +20,8 @@
 # 2018-03-12
 
 1. 266A Stones on the Table
+
+
+# 2018-03-13
+
+1. 281A Word Capitalization
