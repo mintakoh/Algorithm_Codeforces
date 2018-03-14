@@ -27,3 +27,8 @@
 1. 281A Word Capitalization
 2. 116A Tram
 3. 263A Beautiful Matrix
+
+
+# 2018-03-14
+
+1. 131A cAPS lOCK
