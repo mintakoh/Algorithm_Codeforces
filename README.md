@@ -1,4 +1,4 @@
-# 2018-03-09
+# 2018-03-09 (수업시간)
 
 1. 4A Watermelon
 2. 1A Theatre Square
@@ -39,3 +39,9 @@
 
 1. 133A HQ9+
 2. 160A Twins
+
+
+# 2018-03-16 (수업시간)
+
+1. 467B Fedor and New Game
+2. 266B Queue at the School
