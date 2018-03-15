@@ -3,8 +3,11 @@
 1. 4A Watermelon
 2. 1A Theatre Square
 3. 71A Way Too Logn Words
-4. 158A Next Round
-5. 118A String Task
+4. 118A String Task
+
+### 2018-03-09 (수업 외 문제)
+
+5. 158A Next Round
 6. 50A Domino piling
 7. 231A Team
 
@@ -45,3 +48,7 @@
 
 1. 467B Fedor and New Game
 2. 266B Queue at the School
+
+### 2018-03-16 (수업 외 문제)
+
+3. 122A Lucky Division
