@@ -71,3 +71,4 @@
 
 1. 271A Beautiful Year
 2. 41A Translation
+3. 337A Puzzles
