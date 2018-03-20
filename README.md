@@ -70,3 +70,4 @@
 # 2018-03-20
 
 1. 271A Beautiful Year
+2. 41A Translation
