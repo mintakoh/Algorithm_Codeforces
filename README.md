@@ -84,3 +84,11 @@
 
 1. 479A Expression
 2. 136A Presents
+
+
+# 2018-03-23 (수업시간)
+
+1. 492B Vanya and Lanterns
+2. 519B A and B and Compilation Errors
+3. 734B Anton and Digits
+4. 230B T-primes
