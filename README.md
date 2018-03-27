@@ -97,3 +97,9 @@
 # 2018-03-26 
 
 1. 486A Calculating Function
+
+
+# 2018-03-27
+
+1. 617A Elephant
+2. 451A Game With Sticks
