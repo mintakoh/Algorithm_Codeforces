@@ -1,11 +1,11 @@
-# 2018-03-09 (수업시간)
+# 2018-03-09
 
 1. 4A Watermelon
 2. 1A Theatre Square
 3. 71A Way Too Logn Words
 4. 118A String Task
 
-### 2018-03-09 (수업 외 문제)
+### 2018-03-09
 
 5. 158A Next Round
 6. 50A Domino piling
@@ -44,12 +44,12 @@
 2. 160A Twins
 
 
-# 2018-03-16 (수업시간)
+# 2018-03-16
 
 1. 467B Fedor and New Game
 2. 266B Queue at the School
 
-### 2018-03-16 (수업 외 문제)
+### 2018-03-16
 
 3. 122A Lucky Division
 
@@ -86,7 +86,7 @@
 2. 136A Presents
 
 
-# 2018-03-23 (수업시간)
+# 2018-03-23
 
 1. 492B Vanya and Lanterns
 2. 519B A and B and Compilation Errors
