@@ -133,3 +133,8 @@
 
 1. 344A Magnets
 2. 59A Word
+
+
+# 2018-04-03
+
+1. 472A Design Tutorial: Learn from Math
