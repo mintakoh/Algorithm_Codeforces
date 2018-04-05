@@ -152,3 +152,4 @@
 
 1. 460A Vasya and Socks
 2. 734A Anton and Danik
+3. 379A New Year Candles
