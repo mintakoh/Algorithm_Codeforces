@@ -5,7 +5,7 @@
 using namespace std;
 
 vector<int> state;
-vector<vector<int>> array; //graph
+vector<vector<int>> array;
 vector<int> parent;
 vector<int> cycle;
 
@@ -62,7 +62,6 @@ int main()
             array[b].push_back(a);
     }
 
-    // cout << "test" << dfs(2) << endl;
     for (int i = 1; i < n + 1; ++i) {
         state.clear();
         state.resize(n + 1);
@@ -78,7 +77,6 @@ int main()
     
     // cycle -> 0
     // no cycle -> 1
-    
     vector<int> temp;
     for(int i = 1; i < n + 1; i++) {
         temp.push_back(i);
