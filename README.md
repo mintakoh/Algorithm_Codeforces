@@ -165,3 +165,8 @@
 
 1. 103B Cthulhu
 2. 429A Xor-tree
+
+
+# 2018-04-09
+
+1. 520A Pangram
