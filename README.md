@@ -203,3 +203,4 @@
 # 2018-04-27
 
 1. 455A Boredom
+2. 788A Functions again
